@@ -1,4 +1,4 @@
 let myName = 'Тимофей';
-let greeting = 'Привет';
+let greeting = 'Здравствуйте';
 
 console.log(greeting + ', ' + myName);
